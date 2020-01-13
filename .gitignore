@@ -1,5 +1,8 @@
 fast_arrow_auth.json
 Pipfile.lock
+TAGS
+credentials.json
+*.csv
 
 # python
 
